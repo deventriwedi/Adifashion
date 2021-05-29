@@ -25,7 +25,7 @@ const Data=[
     {
         id:3,
         name:'Sweat-shirts', 
-        Category:'Chinos',
+        Category:'Sweat Shirt',
         Image:'images/sweatshirt.jpg',
         Price:'400',
         Desciprtion:'T-shirt Size XL'
