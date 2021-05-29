@@ -7,12 +7,12 @@ import CatItems from './CatItems';
 
 const Gallery = () => {
         const CatItem= [...new Set (Data.map((CurrELem) => CurrELem.Category)),'all']
-        console.log(CatItem);
+        
         
     const [items, setItems] = useState(Data);
     const [CategoryItems, SetCatItems]= useState(CatItem);
     const filterItem = (categItem) => {
-
+console.log(categItem);
         if(categItem==='all'){
             setItems(Data);
             return;

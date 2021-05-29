@@ -4,6 +4,7 @@ const Data=[
 
     {
         id:1,
+        catid:"001",
         name:'T-Shirt', 
         Category:'T-Shirt',
         Image:'images/tshirt.jpg',
@@ -14,6 +15,7 @@ const Data=[
 
     {
         id:2,
+        catid:"002",
         name:'Formal Shirt', 
         Category:'Formal-Shirt',
         Image:'images/formalshirt.jpg',
@@ -24,6 +26,7 @@ const Data=[
 
     {
         id:3,
+        catid:"003",
         name:'Sweat-shirts', 
         Category:'Sweat Shirt',
         Image:'images/sweatshirt.jpg',
@@ -34,6 +37,7 @@ const Data=[
 
     {
         id:4,
+        catid:"004",
         name:'Jeans', 
         Category:'Jeans',
         Image:'images/jeans.jpg',
@@ -44,6 +48,7 @@ const Data=[
 
     {
         id:5,
+        catid:"005",
         name:'Trackpants', 
         Category:'Trackpants',
         Image:'images/trackpants.jpg',
@@ -54,6 +59,7 @@ const Data=[
 
     {
         id:6,
+        catid:"006",
         name:'Shorts', 
         Category:'Shorts',
         Image:'images/shorts.jpg',
@@ -64,6 +70,7 @@ const Data=[
 
     {
         id:7,
+        catid:"007",
         name:'Boxers', 
         Category:'Boxers',
         Image:'images/boxers.jpg',
@@ -74,6 +81,7 @@ const Data=[
 
     {
         id:8,
+        catid:"008",
         name:'Cap', 
         Category:'Cap',
         Image:'images/cap.jpg',
@@ -84,6 +92,7 @@ const Data=[
 
     {
         id:9,
+        catid:"009",
         name:'Sando', 
         Category:'Sando',
         Image:'images/sando.jpg',
@@ -94,6 +103,7 @@ const Data=[
 
     {
         id:10,
+        catid:"010",
         name:'Glares', 
         Category:'Glares',
         Image:'images/glares.jpg',
@@ -103,7 +113,8 @@ const Data=[
     },
 
     {
-        id:1,
+        id:11,
+        catid:"011",
         name:'watches', 
         Category:'watches',
         Image:'images/watches.jpg',
@@ -113,7 +124,8 @@ const Data=[
     },
 
     {
-        id:1,
+        id:12,
+        catid:"012",
         name:'Chains', 
         Category:'Chains',
         Image:'images/chains.jpg',
