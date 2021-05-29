@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/adifashion/static/css/main.24a3d291.chunk.css",
+    "main.js": "/adifashion/static/js/main.926311e5.chunk.js",
+    "main.js.map": "/adifashion/static/js/main.926311e5.chunk.js.map",
+    "runtime-main.js": "/adifashion/static/js/runtime-main.c4eaec39.js",
+    "runtime-main.js.map": "/adifashion/static/js/runtime-main.c4eaec39.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/adifashion/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.bc0c5a11.chunk.js": "/adifashion/static/js/2.bc0c5a11.chunk.js",
+    "static/js/2.bc0c5a11.chunk.js.map": "/adifashion/static/js/2.bc0c5a11.chunk.js.map",
+    "static/js/3.00277d9c.chunk.js": "/adifashion/static/js/3.00277d9c.chunk.js",
+    "static/js/3.00277d9c.chunk.js.map": "/adifashion/static/js/3.00277d9c.chunk.js.map",
+    "index.html": "/adifashion/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/adifashion/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.24a3d291.chunk.css.map": "/adifashion/static/css/main.24a3d291.chunk.css.map",
+    "static/js/2.bc0c5a11.chunk.js.LICENSE.txt": "/adifashion/static/js/2.bc0c5a11.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/adifashion/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4eaec39.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.bc0c5a11.chunk.js",
+    "static/css/main.24a3d291.chunk.css",
+    "static/js/main.926311e5.chunk.js"
+  ]
+}
