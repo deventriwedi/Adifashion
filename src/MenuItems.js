@@ -9,6 +9,7 @@ const MenuItems=({items})=>{
                 {
                     items.map((elem) => {
                         const { id, name, Image, Description, Price } = elem;
+                        console.log({Image});
 
                         return (
                         

@@ -31,7 +31,7 @@ console.log(categItem);
 
     return (
         <>
-            <h1 className="mt-5 text-center main-heading">Welcome To Adi's Fashion</h1>
+            <h1 className="mt-5 text-center main-heading">Welcome To Adi's Fashion!!!</h1>
             <hr />        
             <CatItems filterItem={filterItem} CatItems={CategoryItems} />
             
