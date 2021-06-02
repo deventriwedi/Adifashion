@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/adifashion/static/css/main.2c2ac78b.chunk.css",
-    "main.js": "/adifashion/static/js/main.1642365b.chunk.js",
-    "main.js.map": "/adifashion/static/js/main.1642365b.chunk.js.map",
+    "main.js": "/adifashion/static/js/main.899ded48.chunk.js",
+    "main.js.map": "/adifashion/static/js/main.899ded48.chunk.js.map",
     "runtime-main.js": "/adifashion/static/js/runtime-main.c4eaec39.js",
     "runtime-main.js.map": "/adifashion/static/js/runtime-main.c4eaec39.js.map",
     "static/css/2.61b4cb56.chunk.css": "/adifashion/static/css/2.61b4cb56.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.61b4cb56.chunk.css",
     "static/js/2.bc0c5a11.chunk.js",
     "static/css/main.2c2ac78b.chunk.css",
-    "static/js/main.1642365b.chunk.js"
+    "static/js/main.899ded48.chunk.js"
   ]
 }
